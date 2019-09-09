@@ -1,2 +1,2 @@
 # columbia-bootcamp-homework
-Homework assignments for Columbia Engineering Data Analytics Bootcamp
+First homework assignment for Columbia Engineering Data Analytics Bootcamp. Further assignments can be found at bit.ly/hkgitlab
